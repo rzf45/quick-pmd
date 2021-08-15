@@ -12,7 +12,7 @@ set PMD_OUTPUT_EXT=%MML_OUTPUT_FILENAME:~-3%
 cd BIN\COMPILER
 PMDDotNETConsole.exe "..\..\MML\%PMD_INPUT_MML%.MML"
 
-echo %PMD_OUTPUT_EXT%
+echo File generated as %PMD_INPUT_MML%%PMD_OUTPUT_EXT%
 
 cd ..\PLAYER
 START fmplayer.exe "..\..\MML\%PMD_INPUT_MML%%PMD_OUTPUT_EXT%"

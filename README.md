@@ -1,14 +1,24 @@
 # pmd-quick-compile
 A batch script to quickly compile PC-98 .MML file using PMDDotNet and play it on FMPlayer
 
+## Installation
+1. Clone this repo or [download it here](https://github.com/rzf45/pmd-quick-compile/archive/refs/heads/main.zip).
+2. Extract the files anywhere you want.
+
 ## How to use
 1. Place your .mml file inside `MML` folder
-2. Type `mml YOUR_MML_FILENAME` without the extension
+2. Open command prompt on the folder where the `mml.bat` is.
+3. Type `mml YOUR_MML_FILENAME` without the extension.
 
-Example using `HSOBS1.MML` included in the MML folder:
-```
-mml HSOBS1
-```
+    Example using `HSOBS1.MML` included in the MML folder:
+    ```
+    mml HSOBS1
+    ```
+    
+## How do I code the MML?
+- [Youtube Playlist of mrnuage's PMD MML Tutorial](https://www.youtube.com/playlist?list=PLjDRNwIwhN8cgC0kppyueT_mplN-Wxc-r)
+- [Noyemi K.'s PMD Guide](https://delmunsoft.com/PMD%20Programming.html)
+- [Translated `PMDMML.MAN` by Blaze and Pigu (if you have learned enough from guides/tutorials above)](https://pigu-a.github.io/pmddocs/pmdmml.htm)
 
 ## Credit
 - PMDDotNet by [github/kuma4649](https://github.com/kuma4649)

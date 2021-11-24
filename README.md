@@ -1,5 +1,5 @@
 # pmd-quick-compile
-A batch script to quickly compile PC-98 .MML file using PMDDotNet and play it on FMPlayer
+A batch script to quickly compile PC-98 .MML file using PMDDotNet and play it on FMPlayer. With PMDDotNet and FMPlayer included you don't need to setup any DOS shenanigans.
 
 ## Installation
 1. Clone this repo or [download it here](https://github.com/rzf45/pmd-quick-compile/archive/refs/heads/main.zip).

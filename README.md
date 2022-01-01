@@ -22,4 +22,4 @@ A batch script to quickly compile PC-98 .MML file using PMDDotNet and play it on
 
 ## Credit
 - PMDDotNet by [github/kuma4649](https://github.com/kuma4649)
-- FMPlayer by [github/takamichih](https://github.com/takamichih)
+- FMPlayer by [github/myon98](https://github.com/myon98)

@@ -7,7 +7,7 @@ A program to quickly compile PC-98 .MML file using PMDDotNet and play it on FMPl
 
 ## How to use
 1. Place your .mml file inside `MML` folder
-2. Open command prompt on the folder where the `mml.bat` is.
+2. Open command prompt on the folder where the `mml.exe` is.
 3. Type `mml YOUR_MML_FILENAME` without the extension.
 
     Example using `MIKE.MML` included in the MML folder:
@@ -17,6 +17,11 @@ A program to quickly compile PC-98 .MML file using PMDDotNet and play it on FMPl
 
 ### Additional Usage
 - You can pass `-p2` to the argument to play it with FMPMD2000
+
+    Example using `MIKE.MML` included in the MML folder:
+    ```
+    mml MIKE -p2
+    ```
     
 ## How do I code the MML?
 - [Youtube Playlist of mrnuage's PMD MML Tutorial](https://www.youtube.com/playlist?list=PLjDRNwIwhN8cgC0kppyueT_mplN-Wxc-r)

@@ -1,0 +1,104 @@
+#Title      Kitten of Great Fortune
+#Composer   ZUN
+#Arranger   RZF
+#Option     /v/c
+#Filename   .M2
+#Tempo      85
+#DT2Flag    on
+#Memo       Touhou 18 UM - Goutokuji Mike Theme
+
+@23 4 7 31 0 0 2 0 30 3 4 3 0 0 31 2 0 7 3 0 0 4 3 0 0 31 0 0 2 0 31 3 2 7 0 0 31 2 0 7 3 0 0 4 7 0 0
+@27 3 6 24 8 1 8 1 13 0 6 3 0 0 26 8 3 8 3 30 0 2 7 0 0 26 8 3 8 3 28 0 1 7 0 0 26 0 0 9 0 0 0 2 3 0 0
+@43 5 7 31 0 0 0 0 28 0 2 0 0 0 31 14 3 15 3 0 0 8 0 0 0 31 14 3 15 3 0 0 4 0 0 0 31 14 3 15 3 0 0 4 0 0 0
+@74 0 4 31 7 7 9 2 28 3 6 6 0 0 31 6 6 9 1 58 3 5 6 0 0 31 9 6 9 1 22 2 0 6 0 0 31 6 8 9 15 0 2 1 6 0 0
+@101 4 7 28 0 8 0 3 32 2 12 3 0 0 26 10 7 6 2 0 1 4 3 0 0 28 0 8 0 3 30 2 12 7 0 0 26 10 7 6 2 0 1 4 7 0 0
+
+ABCDEFGHIJ MXA0 MXB0 DF12 DS0 DR0 q0 _{+cf}
+
+ABCDEFG r1
+K R1
+
+ABCDEFGK L
+
+A @101 o2l8 V114 Q2 [b.>f.ae.c-.<a b.>f.ba+.f-.<a+ b>.f.ae.a.>c- <b.g.df.c.<a]2
+B @101 o3l2 V108 Q1 [dedc- deg Q8a+8r8a+8a16g+16]2
+C @101 o2l2 V108 Q1 [b>c-<ba+ b>c-df]2
+D @43 o4l16 V108 [r1]7 [r4]2 frfra+r>cr
+E @27 o3l2 V108 Q2 b>c-<ba+ b>c-dQ8f+8r8a+8a16g+16 l16 [<b8>f8edec c-8g8f-d+f-d : <b8>f8edec d+8a+8g+fg+f-]2 d+8a+8g+fg+f- d8a8gf-ge
+F @74 o3l4 V114 Q4 frgrfra+r frgrbrQ7a+8r8[a+8]2 Q8 l8 frfr16f16 grgr16g16 frfr a+ra+r frfr16f16 grgr16g16 brbr a+rQ7a+a+ Q8
+G [r1]7 r2
+G E2,-1,0,1 o4l16 v13 frfra+r>cr
+K R2 R3
+
+A @23 o4l16 V114 Q8 r8frarfr
+BC @101 o2l2 V1 Q8 [r4]2
+D @43 o4l16 V108 Q8 r8frarfr
+E @27 o3l2 V108 Q8 [r4]2
+F @74 o3l8 V114 Q8 rfQ4af
+G E2,-1,0,1 o4l16 v13 r8frarfr
+K [R0]4
+
+A @23 o4l8 V114 [[br16.a+32b.a+32a32 fedc <br>ar :b4.a+32a32g+32g32 br16>e32f-32fr edc<a+ fr16g+32a32a+4 b4.a+32a32g+32g32]2 br>cr defd <bafa :b4..a+32a32rl16frarfr]2b2>c2
+B @101 o3l2 V108 [def.e4<b>cd4e4f4a4]4
+C @101 o2l2 V108 [b>cd.c4<g+a+b4>c4d4e4]4
+D @43 o4l8 V96 [br16.a+32b.a+32a32 fedc <br>ar :b4.a+32a32g+32g32 br16>e32f-32fr edc<a+ fr16g+32a32a+4 b4.a+32a32g+32g32]2 br>cr defd <bafa V108 l16gr>dr<ar>fr>drcr<erbr
+D @43 o4l8 V108 Q4 [rgbg >c<g>c<g rg>d<g edcd rebe rf>c<f g>d<a:>e dc<ae]2 >f >dc<eb
+E @27 o3l16 V108 [r1]16
+F @74 o3l2 V114 Q8 [gab.a4efg4a+4b4>c4]4
+G E2,-1,0,1 o4l8 v13 [[br16.a+32b.a+32a32 fedc <br>ar :b4.a+32a32g+32g32 br16>e32f-32fr edc<a+ fr16g+32a32a+4 b4.a+32a32g+32g32]2 br>cr defd <bafa :b4..a+32a32rl16frarfr]2b2>c2
+K R5 R6 [R7]2
+ 
+A @23 o3l8 V114 Q4 [b.>f.ae.c-.<a b.>f.ba+.f-.<a+ b>.f.ae.a.>c- <b.g.df.c.<a]2
+B @101 o3l2 V108 Q1 [dedc- deg Q8a+8r8a+8a16g+16]2
+C @101 o2l2 V108 Q1 [b>c-<ba+ b>c-df]2
+D @43 o4l8 V108 Q8 [f.b.>de.c-.<ef.b.>ff-.<a+.f-f.b.>ec-.e.gf.d.<b>[c16d16]2c4]2
+E @27 o3l16 V108 Q8 [[<b8>f8edec c-8g8f-d+f-d : <b8>f8edec d+8a+8g+fg+f-]2 d+8a+8g+fg+f- d8a8gf-ge]2
+F @74 o3l4 V114 Q4 frgrfra+r frgrbrQ7a+8r8[a+8]2 Q8 l8 frfr16f16 grgr16g16 frfr a+ra+r frfr16f16 grgr16g16 brbr a+rQ7a+a+
+G E2,-1,0,1 o3l8 v13 [b.>f.ae.c-.<a b.>f.ba+.f-.<a+ b>.f.ae.a.>c- <b.g.df.c.<a]2
+K R8
+
+A @23 o4l8 V114 Q4 [c.g+.bf.d.<b >c.g+.>cc-.<g.c- c.g+.bf.b.>d c.<a.eg+.d+.c-]2
+B @101 o3l2 V108 Q1 [efed efa Q8>c-8r8c-8<b16a+16]2
+C @101 o3l2 V108 Q1 [cdcc- cdeg+]2
+D @43 o4l8 V108 Q8 [g+.>c.ef.d.<fg+.>c.g+g.c-.<gg+.>c.fd.f.ag+.e.c[d+16e16]2d+4]2
+E @27 o3l16 V108 Q8 [[c8g+8fefd+ d8a8gf-ge : c8g+8fefd+ f-8>c-8<a+g+a+g]2 f-8>c-8<a+g+a+g e8b8agaf]2
+F @74 o3l8 V114 Q8 l8 [g+rg+r16g+16 arar16a16 g+rg+r >c-rc-r <g+rg+r16g+16 arar16a16 >crcr c-rQ7c-c-]2
+G E2,-1,0,1 o4l8 v13 [c.g+.bf.d.<b >c.g+.>cc-.<g.c- c.g+.bf.b.>d c.<a.eg+.d+.c-]2
+K R9
+
+ABCDEFG _{=cdefgab} _{+f} r2
+A @23 o4l8 V114 Q8 rb>d<b
+D @43 o3l8 V96 Q8 rb>d<b
+G E2,-1,0,1 o4l8 v13 rb>d<b
+BCEF r2
+K [R0]8
+
+A @23 o5l8 V114 [er16.d+32e.d+32d32 <bagf :e.r16>d4 e4.d+32d32c+32c32 er16a32a+32br agfd+ <br16>c+32d+32d+4 e4.d+32d32c+32c32]2 <er16>c32c+32d4 e4f4 gabg ed<b>d e4..d+32d32 refg
+A @23 o5l8 V117 [[br16.a+32br ab>d<a :g4rf4e4d+32d32r16 <b>efgabafgrf4g4a4]2 g4fg4f4f-32e32r16 geafbgae16f16 :bafrg4.f32f-32r16]2 gr>d+4e2.
+B @101 o3l2 V112 [efg.f4cd+e4f4g4a4]6
+C @101 o3l2 V112 [gab.a4efg4a4b4>d4]6
+D @43 o4l8 V96 [erer <bagf e.r16>d4 :e4.r erbr agfd+ <br>d+4e4.r]2 e4f4 gabg ed<b>d V102 l16 crgrdrbr >grfrcr<br
+D @43 o4l8 V102 Q4 [[ebeb:>f<b>f<b]2 agfg eaba rb>f<b >cgdagfd<a]4
+E @27 o4l8 V108 Q8 [r1]7 r2 rb>d<b >[erer <bagf e.r16>d4 :e4.r erbr agfd+ <br>d+4e4.r]2 e4f4 gabg ed<b>d e4..r16 refg
+E @27 o5l8 V108 Q8 [brbr ab>d<a :g4rf4e4r <b>efgabafgrf4g4a4]2 g4fg4f4r geafbgae16f16 <br>d+4e2
+F @74 o4l2 V114 Q8 [cde.d4<ab>c4d+4e4f4]6
+G E2,-1,0,1 o5l8 v13 [er16.d+32e.d+32d32 <bagf :e.r16>d4 e4.d+32d32c+32c32 er16a32a+32br agfd+ <br16>c+32d+32d+4 e4.d+32d32c+32c32]2 <er16>c32c+32d4 e4f4 gabg ed<b>d e4..d+32d32 refg
+G E2,-1,0,1 o5l8 v13 [[br16.a+32br ab>d<a :g4rf4e4d+32d32r16 <b>efgabafgrf4g4a4]2 g4fg4f4f-32e32r16 geafbgae16f16 :bafrg4.f32f-32r16]2 gr>d+4e2.
+K R10 R11 R12
+
+AG r4
+BCDEF r2
+
+R0 l8 r
+R1 l16 r2 @192[c]4l32[c]8
+R2 l8 @1[[crr:r]2[c16]2]2[@1crr@256c]2@1cr[c16]2@256c@1c16[@128c16]3@1c16@128c16@512c
+R3 l16 @513c[@128c@258cr@1c@128c@258c@1c:c]7@513c@258[c]3[c32]8
+R4 l16 r8@1[cr]3
+R5 l8 @1c4r4.crc8c4r4.cr[c16]2@129c4.@128cc@1cr@129cc4@1c@128c@129c16@128[c16]3@129c@258c
+R6 l8 @1c4c@128cc@1cr@129cc4r@128c[c16]2@129c16@128c16c@256c@129c4r@128cc@1cr@129c@258c4c16@1[c16]3@258[c16]4c[c16]2
+R7 l8 @258c@128c@258c@128c@1[c16]3@1c16@258c@129cc16@128c16c16@1c16@258c@129cc16@128c16@129c16@1c16@258c@129c16@1c16@258c[c16]2cc@129[c16]2@128c@258c@129cc16@128c16c@258c@128c16@1c16@129c16@128[c16]2@1c16@258c@129c
+R8 l8 [@1025c@258c@129c16@128c16@258c]6 [@1025c@258c@129c16@128c16@258c@129c@258c@129c16@128c16@258c]4 @1025c@258c@129c16@128c16@258c[c16]4c[c16]2
+R9 l16 [[@1025c8@128cc@129c@128c@129c8@258c8:@128c@129c@128ccc@1c]2r@258c8.c8]3 @1025c8@128cc@129c@128c@129c8@258c8@128c@129c@128c@258[c]3c8.c8.c8c4@1[c]4
+R10 l8 @1[c2c2c4c2cc16c16:c2c4.cc4c4cccc16c16]2@129c4@1c@128c@129c@1cc@128c@258c4c4[c16]4c[c16]2
+R11 l8 [[@1025c@128c@258c@128c@129c16@1[c16]3@258c@128c@129c@128c16@1c16@258c@129c[c16]2c@258c@129c16@1c16@258c[c16]2cc@129[c16]3@1c16@258c@129c:c@128c16@1c16@258c@129c[c16]2@128c16@1c16@258c@129c]2 :@258ccc@129c@258c@128c@129[c16]3@1c16]2 @129c@128c16@1c16@258c@129c[c16]2@128c16@1c16@258c@129c
+R12 l16 @192[c]4l32[c]8

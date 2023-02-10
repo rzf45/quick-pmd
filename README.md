@@ -24,6 +24,7 @@ A program to quickly compile PC-98 .MML file using PMDDotNet and play it on FMPl
     ```
     
 ## How do I code the MML?
+- [pedipanol's guide to MML](https://mml-guide.readthedocs.io/)
 - [Youtube Playlist of mrnuage's PMD MML Tutorial](https://www.youtube.com/playlist?list=PLjDRNwIwhN8cgC0kppyueT_mplN-Wxc-r)
 - [Noyemi K.'s PMD Guide](https://web.archive.org/web/20211121010954/https://delmunsoft.com/PMD%20Programming.html)
 - [Translated `PMDMML.MAN` by Blaze and Pigu (if you have learned enough from guides/tutorials above)](https://pigu-a.github.io/pmddocs/pmdmml.htm)

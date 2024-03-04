@@ -29,8 +29,8 @@ A program to quickly compile PC-98 .MML file using PMDDotNet and play it on FMPl
 - [Noyemi K.'s PMD Guide](https://web.archive.org/web/20211121010954/https://delmunsoft.com/PMD%20Programming.html)
 - [Translated `PMDMML.MAN` by Blaze and Pigu (if you have learned enough from guides/tutorials above)](https://pigu-a.github.io/pmddocs/pmdmml.htm)
 
-#### More information about PMD
-- [https://battleofthebits.org/lyceum/View/Professional+Music+Driver+%28PMD%29](https://battleofthebits.org/lyceum/View/Professional+Music+Driver+%28PMD%29/)
+### More information about PMD
+- [https://battleofthebits.com/lyceum/View/Professional+Music+Driver+%28PMD%29](https://battleofthebits.com/lyceum/View/Professional+Music+Driver+%28PMD%29/)
 
 ## Credit
 - [PMDDotNET](https://github.com/kuma4649/PMDDotNET) by [github/kuma4649](https://github.com/kuma4649)
